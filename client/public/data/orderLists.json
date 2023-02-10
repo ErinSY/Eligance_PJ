@@ -1,0 +1,23 @@
+[
+  {
+    "order_id": 1,
+    "products": "가방3",
+    "total_price": 2000000,
+    "date": "2023/02/23",
+    "status": "배송완료"
+  },
+  {
+    "order_id": 2,
+    "products": "신발2",
+    "total_price": 2500000,
+    "date": "2023/02/23",
+    "status": "배송준비"
+  },
+  {
+    "order_id": 3,
+    "products": "액세서리1",
+    "total_price": 2040000,
+    "date": "2023/02/23",
+    "status": "배송준비"
+  }
+]

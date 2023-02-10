@@ -1,0 +1,66 @@
+[
+  {
+    "order_id": 1,
+    "date": "2023/01/23",
+    "status": "배송완료",
+    "total_price": 3400000,
+    "items": [
+      {
+        "products": "가방1",
+        "count": 2,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 100000
+      },
+      {
+        "products": "가방2",
+        "count": 3,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 100000
+      },
+      {
+        "products": "가방4",
+        "count": 1,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 100000
+      },
+      {
+        "products": "가방3",
+        "count": 4,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 100000
+      }
+    ]
+  },
+  {
+    "order_id": 2,
+    "date": "2023/02/23",
+    "status": "배송중",
+    "total_price": 2000000,
+    "items": [
+      {
+        "products": "가방1",
+        "count": 5,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 1002000
+      },
+      {
+        "products": "가방4",
+        "count": 1,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 1000030
+      },
+      {
+        "products": "의류1",
+        "count": 2,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 1002000
+      },
+      {
+        "products": "액세서리1",
+        "count": 2,
+        "image": "https://image.thehyundai.com/static/6/0/7/60/A1/hnm40A1607067_02_1099190_002_001_400.jpg",
+        "price": 100000
+      }
+    ]
+  }
+]
